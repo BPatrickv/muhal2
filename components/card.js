@@ -51,7 +51,7 @@ export default function Card({ data, ar }) {
   return (
     <div
       className="flex-auto center"
-      style={{ backgroundColor: "#FFDFDF", backgroundSize: "cover" }}
+      style={{ backgroundColor: "#FFFCEB", backgroundSize: "cover" }}
     >
       <Box />
       <Link href={link}>
